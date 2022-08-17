@@ -1,5 +1,6 @@
 # client-server
 Практика по клиент-серверному взаимодействию:
+ https://kep-jeck.github.io/client-server/
 
 На основе https://gorest.co.in/ создан блог, который состоит из 2-х видов страниц (2-х html файлов):
 
